@@ -4,7 +4,7 @@ A full-stack online learning platform that enables instructors to create and man
 Learn-Sphere is an end-to-end e-learning web application built with a Java/Spring Boot backend and a React.js frontend. It supports role-based access for students and instructors, secure payment integration via Razorpay, and a clean, responsive UI for an intuitive learning experience.
 
 🛠️ Tech Stack
-LayerTechnologyBackendJava, Spring Boot, Spring Security, HibernateFrontendReact.jsDatabaseMySQLAuthenticationJWT + Role-Based Access ControlPaymentRazorpay Payment GatewayVersion ControlGit / GitHub
+LayerTechnologyBackend Java, Spring Boot, Spring Security, HibernateFrontendReact.jsDatabaseMySQLAuthenticationJWT + Role-Based Access ControlPaymentRazorpay Payment GatewayVersion ControlGit / GitHub
 
 ✨ Features
 
